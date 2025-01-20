@@ -733,7 +733,8 @@
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>Kontak Remasnar</h2>
-        <p>bla bla...</p>
+        <p>Membuka Donasi dan akan disalurkan untuk membantu saudara saudara kita yang membutuhkan 
+          silahkan hubungi kontak kami di bawah ini. Terimakasih!</p>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
